@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: keithdeveloper1314@gmail.com
 description: 成功更多的是辛酸和泪水"
 keyword: "Blog, 李良的博客, Keith Lee, 李良, iOS, Apple, iPhone"
-url: "http://liliang1314.github.io"          # your host, for absolute URL
+url: "https://liliang1314.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/liliang1314/liliang1314.github.io.git" # you code repository
 
@@ -67,10 +67,10 @@ duoshuo_share: false                     # set to false if you want to use Comme
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+#ba_track_id: b50bf2b12b5338a1845e33832976fd68
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
+ga_track_id: 'UA-120539730-1'            # Format: UA-xxxxxx-xx
 ga_domain: auto
 
 
