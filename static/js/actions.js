@@ -129,4 +129,20 @@ const color1 = {
         },
       ]
     },
+    {
+      lifeTime: 180,
+      texts: [{
+          text: '张',
+          hsla: color2
+        },
+        {
+          text: ' ❤️ ',
+          hsla: color3
+        },
+        {
+          text: '婷',
+          hsla: color2
+        }
+      ]
+    },
   ]
