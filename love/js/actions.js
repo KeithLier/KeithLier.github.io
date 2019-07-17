@@ -130,7 +130,7 @@ const color1 = {
       ]
     },
     {
-      lifeTime: 180,
+      lifeTime: 360,
       texts: [{
           text: '张',
           hsla: color2
