@@ -5,9 +5,9 @@ header-img: img/post-bg-desk.jpg
 email: keithdeveloper1314@gmail.com
 description: 成功更多的是辛酸和泪水"
 keyword: "Blog, 李良的博客, Keith Lee, 李良, iOS, Apple, iPhone"
-url: "https://liliang1314.github.io"          # your host, for absolute URL
+url: "https://KeithLier.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/liliang1314/liliang1314.github.io.git" # you code repository
+github_repo: "https://github.com/KeithLier/KeithLier.github.io" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
@@ -18,7 +18,7 @@ sidebar-avatar: img/avatar-by.jpg      # use absolute URL, seeing it's used in b
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
+weibo_username:     少年Keith1314
 # zhihu_username:     qiubaiying
 github_username:    liliang1314
 facebook_username:  keith1314
@@ -58,9 +58,9 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: qiubaiying
+#duoshuo_username: qiubaiying
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: false                     # set to false if you want to use Comment without Sharing
+#duoshuo_share: false                     # set to false if you want to use Comment without Sharing
 
 
 
@@ -95,11 +95,8 @@ friends: [
         title: "简书·Keith",
         href: "http://www.jianshu.com/u/f8be5bc533bd"
     },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "CSDN",
+        href: "https://blog.csdn.net/liliang_1314"
     }
 ]
 
