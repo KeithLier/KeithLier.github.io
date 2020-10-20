@@ -133,7 +133,7 @@ featured-condition-size: 1     # A tag will be featured if the size of it is mor
 friends: [
     {
         title: "Keith Lee",
-        href: "https://liliang1314.github.io/"
+        href: "https://KeithLier.github.io/"
     },
     {
         title: "Apple",

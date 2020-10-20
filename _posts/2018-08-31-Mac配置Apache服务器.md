@@ -100,7 +100,7 @@
 	
 若出现下图所示警告表示正常
 
-![file-list](/Users/keith/Desktop/github/liliang1314/img/reminder.jpg)
+![file-list](/Users/keith/Desktop/github/KeithLier/img/reminder.jpg)
 
 在浏览器地址栏输入 127.0.0.1，刷新页面，可能还是显示**it Work！**请清空一下**safari-->”清除历史记录和网站数据"**，刷新页面。
 
